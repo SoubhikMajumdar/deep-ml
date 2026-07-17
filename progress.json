@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:30:40.209Z",
+  "generated_at": "2026-10-16T20:30:42.010Z",
   "items": {
     "problem:237": {
       "kind": "problem",
@@ -52,6 +52,32 @@
       "last_pushed_at": "2026-07-02T20:13:17.885Z",
       "language": "python",
       "lines": 10
+    },
+    "problem:5": {
+      "kind": "problem",
+      "id": "5",
+      "title": "Scalar Multiplication of a Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/5",
+      "path": "problems/0005-scalar-multiplication-of-a-matrix",
+      "first_solved_at": "2026-07-17T04:38:30.439Z",
+      "last_pushed_at": "2026-07-17T04:38:30.439Z",
+      "language": "python",
+      "lines": 3
+    },
+    "problem:15": {
+      "kind": "problem",
+      "id": "15",
+      "title": "Linear Regression Using Gradient Descent",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/15",
+      "path": "problems/0015-linear-regression-using-gradient-descent",
+      "first_solved_at": "2026-07-17T04:42:47.172Z",
+      "last_pushed_at": "2026-07-17T04:42:47.172Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
