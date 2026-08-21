@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:31:29.132Z",
+  "generated_at": "2026-10-16T20:31:30.977Z",
   "items": {
     "problem:237": {
       "kind": "problem",
@@ -128,6 +128,45 @@
       "path": "math/0010-matrix-multiplication",
       "first_solved_at": "2026-08-13T20:32:51.507Z",
       "last_pushed_at": "2026-08-13T20:32:51.507Z"
+    },
+    "problem:3": {
+      "kind": "problem",
+      "id": "3",
+      "title": "Reshape Matrix",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/3",
+      "path": "problems/0003-reshape-matrix",
+      "first_solved_at": "2026-08-21T05:06:02.129Z",
+      "last_pushed_at": "2026-08-21T05:06:02.129Z",
+      "language": "python",
+      "lines": 7
+    },
+    "problem:23": {
+      "kind": "problem",
+      "id": "23",
+      "title": "Softmax Activation Function Implementation ",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/23",
+      "path": "problems/0023-softmax-activation-function-implementation",
+      "first_solved_at": "2026-08-21T05:12:28.178Z",
+      "last_pushed_at": "2026-08-21T05:12:28.178Z",
+      "language": "python",
+      "lines": 6
+    },
+    "problem:104": {
+      "kind": "problem",
+      "id": "104",
+      "title": "Binary Classification with Logistic Regression",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/104",
+      "path": "problems/0104-binary-classification-with-logistic-regression",
+      "first_solved_at": "2026-08-21T05:14:53.201Z",
+      "last_pushed_at": "2026-08-21T05:14:53.201Z",
+      "language": "python",
+      "lines": 17
     }
   }
 }
