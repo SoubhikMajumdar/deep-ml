@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:31:32.680Z",
+  "generated_at": "2026-10-16T20:31:34.449Z",
   "items": {
     "problem:237": {
       "kind": "problem",
@@ -180,6 +180,45 @@
       "last_pushed_at": "2026-08-24T22:42:24.115Z",
       "language": "python",
       "lines": 62
+    },
+    "problem:82": {
+      "kind": "problem",
+      "id": "82",
+      "title": "Grayscale Image Contrast Calculator",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/82",
+      "path": "problems/0082-grayscale-image-contrast-calculator",
+      "first_solved_at": "2026-08-25T05:17:38.474Z",
+      "last_pushed_at": "2026-08-25T05:17:38.474Z",
+      "language": "python",
+      "lines": 10
+    },
+    "problem:721": {
+      "kind": "problem",
+      "id": "721",
+      "title": "Train a Video Quality Classifier for Dataset Curation",
+      "difficulty": "medium",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/721",
+      "path": "problems/0721-train-a-video-quality-classifier-for-dataset-curation",
+      "first_solved_at": "2026-08-25T05:33:32.694Z",
+      "last_pushed_at": "2026-08-25T05:33:32.694Z",
+      "language": "python",
+      "lines": 51
+    },
+    "problem:784": {
+      "kind": "problem",
+      "id": "784",
+      "title": "Temporal Frame Aggregation for Video Understanding",
+      "difficulty": "easy",
+      "category": "Computer Vision",
+      "url": "https://www.deep-ml.com/problems/784",
+      "path": "problems/0784-temporal-frame-aggregation-for-video-understanding",
+      "first_solved_at": "2026-08-25T06:35:50.937Z",
+      "last_pushed_at": "2026-08-25T06:35:50.937Z",
+      "language": "python",
+      "lines": 25
     }
   }
 }

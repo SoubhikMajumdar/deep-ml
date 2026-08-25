@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**14** solved · 13 problems · 0 labs · 1 math
+**17** solved · 16 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -17,14 +17,17 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Calculate Image Brightness](https://www.deep-ml.com/problems/70) | easy | 2026-07-21 | [solution](problems/0070-calculate-image-brightness) |
 | [Calculate Mean by Row or Column](https://www.deep-ml.com/problems/4) | easy | 2026-08-10 | [solution](problems/0004-calculate-mean-by-row-or-column) |
 | [Convert RGB Image to Grayscale](https://www.deep-ml.com/problems/237) | easy | 2026-01-27 | [solution](problems/0237-convert-rgb-image-to-grayscale) |
+| [Grayscale Image Contrast Calculator](https://www.deep-ml.com/problems/82) | easy | 2026-08-25 | [solution](problems/0082-grayscale-image-contrast-calculator) |
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-07-17 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-07-02 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-01-30 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Reshape Matrix](https://www.deep-ml.com/problems/3) | easy | 2026-08-21 | [solution](problems/0003-reshape-matrix) |
 | [Scalar Multiplication of a Matrix](https://www.deep-ml.com/problems/5) | easy | 2026-07-17 | [solution](problems/0005-scalar-multiplication-of-a-matrix) |
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-08-21 | [solution](problems/0023-softmax-activation-function-implementation) |
+| [Temporal Frame Aggregation for Video Understanding](https://www.deep-ml.com/problems/784) | easy | 2026-08-25 | [solution](problems/0784-temporal-frame-aggregation-for-video-understanding) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-01-30 | [solution](problems/0002-transpose-of-a-matrix) |
 | [Sobel Edge Detection](https://www.deep-ml.com/problems/241) | medium | 2026-08-24 | [solution](problems/0241-sobel-edge-detection) |
+| [Train a Video Quality Classifier for Dataset Curation](https://www.deep-ml.com/problems/721) | medium | 2026-08-25 | [solution](problems/0721-train-a-video-quality-classifier-for-dataset-curation) |
 
 ## Math
 
