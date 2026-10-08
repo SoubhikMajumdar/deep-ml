@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**20** solved · 19 problems · 0 labs · 1 math
+**21** solved · 20 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -29,6 +29,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Softmax Activation Function Implementation ](https://www.deep-ml.com/problems/23) | easy | 2026-08-21 | [solution](problems/0023-softmax-activation-function-implementation) |
 | [Temporal Frame Aggregation for Video Understanding](https://www.deep-ml.com/problems/784) | easy | 2026-08-25 | [solution](problems/0784-temporal-frame-aggregation-for-video-understanding) |
 | [Transpose of a Matrix](https://www.deep-ml.com/problems/2) | easy | 2026-01-30 | [solution](problems/0002-transpose-of-a-matrix) |
+| [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-08 | [solution](problems/0017-k-means-clustering) |
 | [Sobel Edge Detection](https://www.deep-ml.com/problems/241) | medium | 2026-08-24 | [solution](problems/0241-sobel-edge-detection) |
 | [Train a Video Quality Classifier for Dataset Curation](https://www.deep-ml.com/problems/721) | medium | 2026-08-25 | [solution](problems/0721-train-a-video-quality-classifier-for-dataset-curation) |
 
