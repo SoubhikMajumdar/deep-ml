@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T20:31:41.345Z",
+  "generated_at": "2026-10-16T20:31:43.045Z",
   "items": {
     "problem:237": {
       "kind": "problem",
@@ -271,6 +271,84 @@
       "last_pushed_at": "2026-10-08T19:18:16.144Z",
       "language": "python",
       "lines": 81
+    },
+    "problem:1137": {
+      "kind": "problem",
+      "id": "1137",
+      "title": "Top-K Largest Elements in a List",
+      "difficulty": "easy",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1137",
+      "path": "problems/1137-top-k-largest-elements-in-a-list",
+      "first_solved_at": "2026-10-16T02:08:34.268Z",
+      "last_pushed_at": "2026-10-16T02:08:34.268Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:1148": {
+      "kind": "problem",
+      "id": "1148",
+      "title": "Longest Substring / Subarray with Two Pointers",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1148",
+      "path": "problems/1148-longest-substring-subarray-with-two-pointers",
+      "first_solved_at": "2026-10-16T02:41:20.546Z",
+      "last_pushed_at": "2026-10-16T02:41:20.546Z",
+      "language": "python",
+      "lines": 18
+    },
+    "problem:1141": {
+      "kind": "problem",
+      "id": "1141",
+      "title": "Count Words Appearing Exactly Once in Each of Two Lists",
+      "difficulty": "easy",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1141",
+      "path": "problems/1141-count-words-appearing-exactly-once-in-each-of-two-lists",
+      "first_solved_at": "2026-10-16T15:12:43.215Z",
+      "last_pushed_at": "2026-10-16T15:12:43.215Z",
+      "language": "python",
+      "lines": 16
+    },
+    "problem:1151": {
+      "kind": "problem",
+      "id": "1151",
+      "title": "First N Fibonacci Numbers",
+      "difficulty": "easy",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1151",
+      "path": "problems/1151-first-n-fibonacci-numbers",
+      "first_solved_at": "2026-10-16T15:24:50.637Z",
+      "last_pushed_at": "2026-10-16T15:24:50.637Z",
+      "language": "python",
+      "lines": 17
+    },
+    "problem:1160": {
+      "kind": "problem",
+      "id": "1160",
+      "title": "Valid Palindrome II (Delete At Most One Char)",
+      "difficulty": "easy",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1160",
+      "path": "problems/1160-valid-palindrome-ii-delete-at-most-one-char",
+      "first_solved_at": "2026-10-16T19:56:56.246Z",
+      "last_pushed_at": "2026-10-16T19:56:56.246Z",
+      "language": "python",
+      "lines": 31
+    },
+    "problem:1186": {
+      "kind": "problem",
+      "id": "1186",
+      "title": "Number of Islands (Grid Connected Components)",
+      "difficulty": "medium",
+      "category": "Algorithms",
+      "url": "https://www.deep-ml.com/problems/1186",
+      "path": "problems/1186-number-of-islands-grid-connected-components",
+      "first_solved_at": "2026-10-16T20:21:02.352Z",
+      "last_pushed_at": "2026-10-16T20:21:02.352Z",
+      "language": "python",
+      "lines": 26
     }
   }
 }
