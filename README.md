@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**27** solved · 26 problems · 0 labs · 1 math
+**28** solved · 27 problems · 0 labs · 1 math
 
 ![Coverage](./coverage.svg)
 
@@ -36,6 +36,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [K-Means Clustering](https://www.deep-ml.com/problems/17) | medium | 2026-10-08 | [solution](problems/0017-k-means-clustering) |
 | [Longest Substring / Subarray with Two Pointers](https://www.deep-ml.com/problems/1148) | medium | 2026-10-16 | [solution](problems/1148-longest-substring-subarray-with-two-pointers) |
 | [Number of Islands (Grid Connected Components)](https://www.deep-ml.com/problems/1186) | medium | 2026-10-16 | [solution](problems/1186-number-of-islands-grid-connected-components) |
+| [Simple Convolutional 2D Layer](https://www.deep-ml.com/problems/41) | medium | 2026-10-19 | [solution](problems/0041-simple-convolutional-2d-layer) |
 | [Sobel Edge Detection](https://www.deep-ml.com/problems/241) | medium | 2026-08-24 | [solution](problems/0241-sobel-edge-detection) |
 | [Train a Video Quality Classifier for Dataset Curation](https://www.deep-ml.com/problems/721) | medium | 2026-08-25 | [solution](problems/0721-train-a-video-quality-classifier-for-dataset-curation) |
 
